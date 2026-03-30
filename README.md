@@ -36,7 +36,7 @@ It helps users get quick and relevant information about:
 
 ## 📸 Chatbot Demo
 
-![College Chatbot](screenshot.png)
+![College Chatbot](chatbot screen shot.png)
 
 ---
 
