@@ -32,12 +32,7 @@ It helps users get quick and relevant information about:
 * Scikit-learn
 * NLTK
 
----
-
-## 📸 Chatbot Demo
-
-![College Chatbot](chatbot%20screen%20shot.png)
-
+--
 ---
 
 ## 🧪 How It Works
