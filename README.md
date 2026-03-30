@@ -2,70 +2,28 @@
 
 ## 📌 Overview
 
-The College Chatbot is a Python-based web application that leverages Machine Learning and Natural Language Processing (NLP) to answer college-related queries.
+The **College Chatbot** is a Python-based web application that uses **Machine Learning** and **Natural Language Processing (NLP)** to answer college-related queries.
 
-It provides users with quick and accurate information about admissions, courses, fees, and other common queries through an interactive chatbot interface.
+It helps users get quick and relevant information about:
+
+* Admissions
+* Courses
+* Fees
+* General college queries
 
 ---
 
-## 🚀 Key Features
+## 🚀 Features
 
-* 🤖 AI-powered chatbot for college queries
+* 🤖 AI-powered chatbot
 * 🧠 NLP-based intent classification
-* ⚡ Real-time response generation
-* 🌐 Web application built using Flask
-* 📂 Structured dataset for training
+* ⚡ Real-time responses
+* 🌐 Web interface using Flask
+* 📂 Pre-trained ML model
 
 ---
 
-## 🧠 Methodology
-
-The chatbot is developed using a combination of NLP and Machine Learning techniques:
-
-* Data preprocessing and text cleaning
-* Data augmentation using synonym replacement
-* Training multiple classification models
-* Selecting the best-performing model
-* Predicting user intent and generating responses
-
----
-
-## 💡 Motivation
-
-This project was built to apply my knowledge of Python, Machine Learning, and NLP.
-
-It helped me understand:
-
-* How chatbots work
-* How to train ML models for text classification
-* How to integrate AI into real-world applications
-
----
-
-## ▶️ How to Run
-
-### 1️⃣ Clone the repository
-
-```bash
-git clone https://github.com/swetha7216/Chatbot.git
-cd Chatbot
-```
-
-### 2️⃣ Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3️⃣ Run the application
-
-```bash
-python app.py
-```
-
----
-
-## 🛠️ Tech Stack
+## 🧠 Tech Stack
 
 * Python
 * Flask
@@ -76,8 +34,80 @@ python app.py
 
 ---
 
+## 📸 Chatbot Demo
+
+![College Chatbot](screenshot.png)
+
+---
+
+## 🧪 How It Works
+
+1. User enters a query
+2. Text is transformed using vectorizer
+3. ML model predicts intent
+4. Bot selects a response from dataset
+5. Response is displayed in UI
+
+---
+
+## ▶️ How to Run
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/swetha7216/Chatbot.git
+cd Chatbot
+```
+
+### 2. Create virtual environment
+
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
+
+### 3. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Run the application
+
+```bash
+python app.py
+```
+
+---
+
+## 🌐 Output
+
+Open browser and go to:
+
+```
+http://127.0.0.1:5000/
+```
+
+---
+
+## 💡 Motivation
+
+This project helped me understand:
+
+* How chatbots work
+* How ML models classify text
+* How NLP is used in real-world applications
+* How to integrate ML into web apps
+
+---
+
 ## 👩‍💻 Author
 
 **Swetha Angam**
 🔗 GitHub: https://github.com/swetha7216
 
+---
+
+## ⭐ If you like this project
+
+Give it a ⭐ on GitHub!
