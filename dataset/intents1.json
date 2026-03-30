@@ -19,7 +19,7 @@
         "Who is your developer?",
         "Who made you?"
       ],
-      "responses": ["I was created by Prasanth Nimmala."],
+      "responses": ["I was created by sweetha ."],
       "context_set": ""
     },
     {
@@ -29,7 +29,7 @@
         "What should I call you?",
         "Who are you?"
       ],
-      "responses": ["You can call me Chiku. I'm a Chatbot."],
+      "responses": ["You can call me swetha. I'm a Chatbot."],
       "context_set": ""
     },
     {
